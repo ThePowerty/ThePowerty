@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Williams</h1>
 <h3 align="center">A passionate full-satck developer from Spain</h3>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=thepowerty&label=Profile%20views&color=0e75b6&style=flat" alt="thepowerty" /> </p>
+
 ## 🛠 Language and tools:
 <table align="center">
     <tr>
