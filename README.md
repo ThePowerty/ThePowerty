@@ -3,7 +3,7 @@
 
 <h2 align="center">
     
-[Visita mi portfolio](https://thepowerty.github.io/portfolio-react/)
+Visita mi portfolio [aquí](https://thepowerty.github.io/portfolio-react/)
 </h2>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=thepowerty&label=Profile%20views&color=0e75b6&style=flat" alt="thepowerty" /> </p>
